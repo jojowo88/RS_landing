@@ -2,22 +2,20 @@
     margin: -8px;
 }
 
-.img-banner {
-    height: 500px;
-    display: block;
-}
-
 .img-logo {
-    height: 200px;
+    height: 400px;
     position: absolute;
     top: 0;
     padding: 100px;
 }
 
-h1 {
-    color: #b21e38;
+.img-banner {
+    height: 500px;
+    display: block;
 }
 
-body {
-    background-color: blue;
+h2 {
+    background-color: #b21e38;
+    color: white;
 }
+
